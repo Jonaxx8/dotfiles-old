@@ -1,3 +1,6 @@
-import = [
-    "~/.config/alacritty/themes/themes/palenight.toml"
-]
+[window.dimensions]
+columns = 80
+lines = 25
+
+[font]
+size = 9.5
