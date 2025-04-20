@@ -36,10 +36,6 @@ ln -s ~/dotfiles/alacritty ~/.config/alacritty
 
 ![Desktop Screenshot](image.png)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Inspired by various dotfile repositories in the Linux community
